@@ -22,7 +22,7 @@ Brief overview of the project:
 
 <div style="text-align: justify"> 
 The Internet facilitates access to veridical but also to false and misleading information. False and misleading information manifests itself in, e.g., fake news, conspiracy theories, and rumors, and it may be detrimental to individuals and to social groups (e.g., by promoting harmful health practices or uninformed voting behavior). An important finding is that repeated exposure to information typically increases its perceived truth. This effect of repetition has been coined the repetition-induced truth effect (or truth effect). The truth effect is commonly accounted for in terms of fluency (ease of processing) and familiarity: repeated exposure makes statements easier to process, and this metacognitive feeling of fluency is then misattributed to truth.
-</div>
+</div><br>
 
 <div style="text-align: justify"> 
 The truth effect makes it possible that false information becomes subjectively more true simply by being shared and repeatedly encountered. In contrast to this well-established study of the truth effect, this project aims to further our understanding of when repeated exposure may actually denote falsehood and of what happens when falsehood judgments are substituted for truth judgments. 
@@ -39,25 +39,25 @@ Main topic: Evaluative conditioning (i.e., change of the valence of a neutral st
 
 <div style="text-align: justify"> 
 We studied whether "relational" evaluative conditioning procedures (e.g., a neutral stimulus is said to cause or prevent a valenced stimulus) create mixed feelings (as measured with mouse tracking and attitudinal ambivalence scales). Such a result would support the view that multiple attitude learning processes exist, rather than a single process. We also study whether effects found in "relational" evaluative conditioning procedures extend to "instructed" procedures, where no direct experience of the pairings is involved.
-</div>
+</div><br>
 
 - Is attitude acquisition (partly) uncontrolled?
 
 <div style="text-align: justify"> 
 We studied whether attitude acquisition can be uncontrolled at all (e.g., if uncontrolled attitude formation exists, individuals may sometimes judge as negative a neutral stimulus paired with a negative stimulus, even if they oppose this impression formation). We developed a new paradigm in which a neutral stimulus is paired with two valenced US whose valence is the same (congruent trials) or opposite (incongruent trials). Participants have to form an impression of the neutral stimulus based on one valenced image while discarding the influence of the other valenced image. 
-</div>
+</div><br>
 
 - Methods to compare performance on several tasks.
 
 <div style="text-align: justify"> 
 We applied a method to test dissociation hypotheses about performance on direct and indirect attitude measures while preventing comparisons based on structurally unfitted tasks (which creates confounds).
-</div>
+</div><br>
 
 - Aside: Truth effect research.
 
 <div style="text-align: justify"> 
 As an aside, I also work on the truth effect (repetition increases statements' perceived truth) with the help of research assistants and students. We investigated whether evidence for the truth effect can be found on highly implausible statements (e.g., "The Earth is a perfect square"). We also tested whether using valenced pictures to provide truth judgments changes the size of the truth effect (i.e., responding "true" and "false" using a positive or a negative image). 
-</div>
+</div><br>
 
 # Education
 
