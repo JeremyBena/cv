@@ -35,15 +35,15 @@ Main topic: Evaluative conditioning (i.e., change of the valence of a neutral st
 
 We studied whether "relational" evaluative conditioning procedures (e.g., a neutral stimulus is said to cause or prevent a valenced stimulus) create mixed feelings (as measured with mouse tracking and attitudinal ambivalence scales). Such a result would support the view that multiple attitude learning processes exist, rather than a single process. We also study whether effects found in "relational" evaluative conditioning procedures extend to "instructed" procedures, where no direct experience of the pairings is involved.
 
-2. Is attitude acquisition (partly) uncontrolled?
+1. Is attitude acquisition (partly) uncontrolled?
 
 We studied whether attitude acquisition can be uncontrolled at all (e.g., if uncontrolled attitude formation exists, individuals may sometimes judge as negative a neutral stimulus paired with a negative stimulus, even if they oppose this impression formation). We developed a new paradigm in which a neutral stimulus is paired with two valenced US whose valence is the same (congruent trials) or opposite (incongruent trials). Participants have to form an impression of the neutral stimulus based on one valenced image while discarding the influence of the other valenced image. 
 
-3. Methods to compare performance on several tasks.
+1. Methods to compare performance on several tasks.
 
 We applied a method to test dissociation hypotheses about performance on direct and indirect attitude measures while preventing comparisons based on structurally unfitted tasks (which creates confounds).
 
-4. Aside: Truth effect research.
+1. Aside: Truth effect research.
 
 As an aside, I also work on the truth effect (repetition increases statements' perceived truth) with the help of research assistants and students. We investigated whether evidence for the truth effect can be found on highly implausible statements (e.g., "The Earth is a perfect square"). We also tested whether using valenced pictures to provide truth judgments changes the size of the truth effect (i.e., responding "true" and "false" using a positive or a negative image). 
 
@@ -66,18 +66,18 @@ Université de Toulouse, France
 
 <b>Béna, J.</b>, Mauclet, A., & Corneille, O. Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. Under Review.
 
-<b>Béna, J.</b>, Corneille, O., Mierop, A., & Unkelbach, C. Robustness tests provide further support for an ecological account of the truth and fake news by repetition effects. Under review. Preprint available at: https://doi.org/10.31234/osf.io/6r2s5
+<b>Béna, J.</b>, Corneille, O., Mierop, A., & Unkelbach, C. Robustness tests provide further support for an ecological account of the truth and fake news by repetition effects. Under review. Preprint available at: [https://doi.org/10.31234/osf.io/6r2s5](https://doi.org/10.31234/osf.io/6r2s5)
 
-Corneille, O., & <b>Béna, J.</b> (in press). The “implicit bias” wording is a relic. Let's move on and study unconscious social categorization effects. Commentary on the target article "Implicit bias ≠ Bias on Implicit Measures" from Gawronski, B, Ledgerwood, A., & Eastwick, P. W.. _Psychological Inquiry._ 10.1080/1047840X.2022.2106754
+Corneille, O., & <b>Béna, J.</b> (in press). The “implicit bias” wording is a relic. Let's move on and study unconscious social categorization effects. Commentary on the target article "Implicit bias ≠ Bias on Implicit Measures" from Gawronski, B, Ledgerwood, A., & Eastwick, P. W.. _Psychological Inquiry._ [10.1080/1047840X.2022.2106754](10.1080/1047840X.2022.2106754)
 
-<b>Béna, J.</b>, Rihet, M., Carreras, O., & Terrier, P. Repetition could increase the perceived truth of conspiracy theories Under review. Preprint available at: https://psyarxiv.com/3gc6k/
+<b>Béna, J.</b>, Rihet, M., Carreras, O., & Terrier, P. Repetition could increase the perceived truth of conspiracy theories Under review. Preprint available at: [https://psyarxiv.com/3gc6k/](https://psyarxiv.com/3gc6k/)
 
-<b>Béna, J.</b>, Carreras, O., & Terrier, P. On Believing Conspiracy Theories We Remember: Analyses of Two Large-Scale Surveys of Conspiracism in the French General Public. Under review. Preprint available at: https://doi.org/10.31234/osf.io/tf76n
+<b>Béna, J.</b>, Carreras, O., & Terrier, P. On Believing Conspiracy Theories We Remember: Analyses of Two Large-Scale Surveys of Conspiracism in the French General Public. Under review. Preprint available at: [https://doi.org/10.31234/osf.io/tf76n](https://doi.org/10.31234/osf.io/tf76n)
 
-<b>Béna, J.</b>, Melnikoff, D., Mierop, A., & Corneille, O. (2022). Revisiting dissociation hypotheses with a structural fit approach: The case of the prepared reflex framework. _Journal of Experimental Social Psychology, 100_, 104297. https://doi.org/10.1016/j.jesp.2022.104297
+<b>Béna, J.</b>, Melnikoff, D., Mierop, A., & Corneille, O. (2022). Revisiting dissociation hypotheses with a structural fit approach: The case of the prepared reflex framework. _Journal of Experimental Social Psychology, 100_, 104297. [https://doi.org/10.1016/j.jesp.2022.104297](https://doi.org/10.1016/j.jesp.2022.104297)
 
-Lacassagne, D., <b>Béna, J.</b>, & Corneille, O. (2022). Is Earth a Perfect Square? Repetition Increases the Perceived Truth of Highly Implausible Statements. _Cognition, 223_, 105052. https://doi.org/10.1016/j.cognition.2022.105052 
+Lacassagne, D., <b>Béna, J.</b>, & Corneille, O. (2022). Is Earth a Perfect Square? Repetition Increases the Perceived Truth of Highly Implausible Statements. _Cognition, 223_, 105052. [https://doi.org/10.1016/j.cognition.2022.105052](https://doi.org/10.1016/j.cognition.2022.105052) 
 
-Mierop, A., Mikolajczak, M., Stahl, C., <b>Béna, J.</b>, Luminet, O., Lane, A., & Corneille, O. (2020). How Can Intranasal Oxytocin Research Be Trusted? A Systematic Review of the Interactive Effects of Intranasal Oxytocin on Psychosocial Outcomes. _Perspectives on Psychological Science, 15(5)_, 1228–1242. https://doi.org/10.1177/1745691620921525
+Mierop, A., Mikolajczak, M., Stahl, C., <b>Béna, J.</b>, Luminet, O., Lane, A., & Corneille, O. (2020). How Can Intranasal Oxytocin Research Be Trusted? A Systematic Review of the Interactive Effects of Intranasal Oxytocin on Psychosocial Outcomes. _Perspectives on Psychological Science, 15(5)_, 1228–1242. [https://doi.org/10.1177/1745691620921525](https://doi.org/10.1177/1745691620921525)
 
-<b>Béna, J.</b>, Carreras, O., & Terrier, P. (2019). L’effet de vérité induit par la répétition: Revue critique de l’hypothèse de familiarité [The repetition-induced truth effect: A critical note on the familiarity hypothesis]. _L'Année Psychologique, 119(3)_, 397–424. https://doi.org/10.3917/anpsy1.193.0397
+<b>Béna, J.</b>, Carreras, O., & Terrier, P. (2019). L’effet de vérité induit par la répétition: Revue critique de l’hypothèse de familiarité [The repetition-induced truth effect: A critical note on the familiarity hypothesis]. _L'Année Psychologique, 119(3)_, 397–424. [https://doi.org/10.3917/anpsy1.193.0397](https://doi.org/10.3917/anpsy1.193.0397)
