@@ -35,25 +35,25 @@ Supervisor: Prof. Olivier Corneille
 
 Main topic: Evaluative conditioning (i.e., change of the valence of a neutral stimulus in the direction of the valenced stimulus it was paired with).
 
-1. "Relational" evaluative conditioning procedures.
+- "Relational" evaluative conditioning procedures.
 
 <div style="text-align: justify"> 
 We studied whether "relational" evaluative conditioning procedures (e.g., a neutral stimulus is said to cause or prevent a valenced stimulus) create mixed feelings (as measured with mouse tracking and attitudinal ambivalence scales). Such a result would support the view that multiple attitude learning processes exist, rather than a single process. We also study whether effects found in "relational" evaluative conditioning procedures extend to "instructed" procedures, where no direct experience of the pairings is involved.
 </div>
 
-1. Is attitude acquisition (partly) uncontrolled?
+- Is attitude acquisition (partly) uncontrolled?
 
 <div style="text-align: justify"> 
 We studied whether attitude acquisition can be uncontrolled at all (e.g., if uncontrolled attitude formation exists, individuals may sometimes judge as negative a neutral stimulus paired with a negative stimulus, even if they oppose this impression formation). We developed a new paradigm in which a neutral stimulus is paired with two valenced US whose valence is the same (congruent trials) or opposite (incongruent trials). Participants have to form an impression of the neutral stimulus based on one valenced image while discarding the influence of the other valenced image. 
 </div>
 
-1. Methods to compare performance on several tasks.
+- Methods to compare performance on several tasks.
 
 <div style="text-align: justify"> 
 We applied a method to test dissociation hypotheses about performance on direct and indirect attitude measures while preventing comparisons based on structurally unfitted tasks (which creates confounds).
 </div>
 
-1. Aside: Truth effect research.
+- Aside: Truth effect research.
 
 <div style="text-align: justify"> 
 As an aside, I also work on the truth effect (repetition increases statements' perceived truth) with the help of research assistants and students. We investigated whether evidence for the truth effect can be found on highly implausible statements (e.g., "The Earth is a perfect square"). We also tested whether using valenced pictures to provide truth judgments changes the size of the truth effect (i.e., responding "true" and "false" using a positive or a negative image). 
