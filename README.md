@@ -78,7 +78,7 @@ Université de Toulouse, France
 
 <b>Béna, J.</b>, Mauclet, A., & Corneille, O. Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. Under Review.
 
-<b>Béna, J.</b>, Corneille, O., Mierop, A., & Unkelbach, C. Robustness tests provide further support for an ecological account of the truth and fake news by repetition effects. Under review. Preprint available at: [https://doi.org/10.31234/osf.io/6r2s5](https://doi.org/10.31234/osf.io/6r2s5)
+<b>Béna, J.</b>, Corneille, O., Mierop, A., & Unkelbach, C. (in press). Robustness tests provide further support for an ecological account of the truth and fake news by repetition effects. Accepted at _International Review of Social Psychology_. Preprint available at: [https://doi.org/10.31234/osf.io/6r2s5](https://doi.org/10.31234/osf.io/6r2s5)
 
 Corneille, O., & <b>Béna, J.</b> (in press). The “implicit bias” wording is a relic. Let's move on and study unconscious social categorization effects. Commentary on the target article "Implicit bias ≠ Bias on Implicit Measures" from Gawronski, B, Ledgerwood, A., & Eastwick, P. W.. _Psychological Inquiry._ [10.1080/1047840X.2022.2106754](10.1080/1047840X.2022.2106754)
 
