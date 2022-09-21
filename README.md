@@ -76,11 +76,11 @@ Université de Toulouse, France
 
 # Articles
 
-<b>Béna, J.</b>, Mauclet, A., & Corneille, O. (in press) Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. Accepted at _Journal of Experimental Psychology: General._
+<b>Béna, J.</b>, Mauclet, A., & Corneille, O. (in press) Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. Accepted at _Journal of Experimental Psychology: General._ [https://doi.org/10.1037/xge0001308](https://doi.org/10.1037/xge0001308)
 
 <b>Béna, J.</b>, Corneille, O., Mierop, A., & Unkelbach, C. (in press). Robustness tests provide further support for an ecological account of the truth and fake news by repetition effects. Accepted at _International Review of Social Psychology_. Preprint available at: [https://doi.org/10.31234/osf.io/6r2s5](https://doi.org/10.31234/osf.io/6r2s5)
 
-Corneille, O., & <b>Béna, J.</b> (in press). The “implicit bias” wording is a relic. Let's move on and study unconscious social categorization effects. Commentary on the target article "Implicit bias ≠ Bias on Implicit Measures" from Gawronski, B, Ledgerwood, A., & Eastwick, P. W.. _Psychological Inquiry._ [https://doi.org/10.1080/1047840X.2022.2106754](https://doi.org/10.1080/1047840X.2022.2106754)
+Corneille, O., & <b>Béna, J.</b> (2022). The “implicit bias” wording is a relic. Let's move on and study unconscious social categorization effects. Commentary on the target article "Implicit bias ≠ Bias on Implicit Measures" from Gawronski, B, Ledgerwood, A., & Eastwick, P. W.. _Psychological Inquiry, 33_(3), 167--172. [https://doi.org/10.1080/1047840X.2022.2106754](https://doi.org/10.1080/1047840X.2022.2106754)
 
 <b>Béna, J.</b>, Rihet, M., Carreras, O., & Terrier, P. (preprint). Repetition could increase the perceived truth of conspiracy theories Under review. Preprint available at: [https://psyarxiv.com/3gc6k/](https://psyarxiv.com/3gc6k/)
 
