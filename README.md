@@ -74,6 +74,8 @@ Université de Toulouse, France
 2014: **Bachelor in Psychology**<br>
 Université de Toulouse, France
 
+<br><br>
+
 # Articles
 
 <b>Béna, J.</b>, Mauclet, A., & Corneille, O. (in press) Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. Accepted at _Journal of Experimental Psychology: General._ [https://doi.org/10.1037/xge0001308](https://doi.org/10.1037/xge0001308)
