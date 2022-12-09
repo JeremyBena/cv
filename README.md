@@ -78,7 +78,7 @@ Université de Toulouse, France
 
 # Articles
 
-<b>Béna, J.</b>, Mierop, A., Bancu, D., Unkelbach, C., & Corneille, O., (in press). The role of valence matching in the truth-by-repetition effect. _Accepted at Social Cognition._
+<b>Béna, J.</b>, Mierop, A., Bancu, D., Unkelbach, C., & Corneille, O. (in press). The role of valence matching in the truth-by-repetition effect. _Accepted at Social Cognition._
 
 <b>Béna, J.</b>, Mauclet, A., & Corneille, O. (in press) Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. _Journal of Experimental Psychology: General._ Advance online publication. [https://doi.org/10.1037/xge0001308](https://doi.org/10.1037/xge0001308)
 
