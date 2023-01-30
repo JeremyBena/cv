@@ -78,9 +78,11 @@ Université de Toulouse, France
 
 # Articles
 
+Stahl, C., Aust, F., <b>Béna, J.</b>, Mierop, A., & Corneille, O. (in press). A conditional judgment procedure for probing evaluative conditioning effects in the absence of feelings of remembering. _Accepted at Behavior Research Methods._ Preprint available at: [https://psyarxiv.com/rtqnx/](https://psyarxiv.com/rtqnx/)
+
 <b>Béna, J.</b>, Mierop, A., Bancu, D., Unkelbach, C., & Corneille, O. (in press). The role of valence matching in the truth-by-repetition effect. _Accepted at Social Cognition._
 
-<b>Béna, J.</b>, Mauclet, A., & Corneille, O. (in press) Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. _Journal of Experimental Psychology: General._ Advance online publication. [https://doi.org/10.1037/xge0001308](https://doi.org/10.1037/xge0001308)
+<b>Béna, J.</b>, Mauclet, A., & Corneille, O. (2022) Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. _Journal of Experimental Psychology: General._ Advance online publication. [https://doi.org/10.1037/xge0001308](https://doi.org/10.1037/xge0001308)
 
 <b>Béna, J.</b>, Corneille, O., Mierop, A., & Unkelbach, C. (2022). Robustness tests provide further support for an ecological account of the truth and fake news by repetition effects. Accepted at _International Review of Social Psychology, 35_(1), 19, 1–11. [https://doi.org/10.5334/irsp.683](https://doi.org/10.5334/irsp.683)
 
