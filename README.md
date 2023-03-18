@@ -80,15 +80,15 @@ Université de Toulouse, France
 
 Stahl, C., Aust, F., <b>Béna, J.</b>, Mierop, A., & Corneille, O. (in press). A conditional judgment procedure for probing evaluative conditioning effects in the absence of feelings of remembering. _Accepted at Behavior Research Methods._ Preprint available at: [https://psyarxiv.com/rtqnx/](https://psyarxiv.com/rtqnx/)
 
-<b>Béna, J.</b>, Mierop, A., Bancu, D., Unkelbach, C., & Corneille, O. (in press). The role of valence matching in the truth-by-repetition effect. _Accepted at Social Cognition._
+<b>Béna, J.</b>, Rihet, M., Carreras, O., & Terrier, P. (2023). Repetition could increase the perceived truth of conspiracy theories. _Accepted at Psychonomic Bulletin & Review._ Preprint available at: [https://psyarxiv.com/3gc6k/](https://psyarxiv.com/3gc6k/). 
+
+<b>Béna, J.</b>, Mierop, A., Bancu, D., Unkelbach, C., & Corneille, O. (2023). The role of valence matching in the truth-by-repetition effect. _Accepted at Social Cognition, 41_(2), 91--105.
 
 <b>Béna, J.</b>, Mauclet, A., & Corneille, O. (2022) Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. _Journal of Experimental Psychology: General._ Advance online publication. [https://doi.org/10.1037/xge0001308](https://doi.org/10.1037/xge0001308)
 
 <b>Béna, J.</b>, Corneille, O., Mierop, A., & Unkelbach, C. (2022). Robustness tests provide further support for an ecological account of the truth and fake news by repetition effects. Accepted at _International Review of Social Psychology, 35_(1), 19, 1–11. [https://doi.org/10.5334/irsp.683](https://doi.org/10.5334/irsp.683)
 
 Corneille, O., & <b>Béna, J.</b> (2022). The “implicit bias” wording is a relic. Let's move on and study unconscious social categorization effects. Commentary on the target article "Implicit bias ≠ Bias on Implicit Measures" from Gawronski, B, Ledgerwood, A., & Eastwick, P. W.. _Psychological Inquiry, 33_(3), 167--172. [https://doi.org/10.1080/1047840X.2022.2106754](https://doi.org/10.1080/1047840X.2022.2106754)
-
-<b>Béna, J.</b>, Rihet, M., Carreras, O., & Terrier, P. (preprint). Repetition could increase the perceived truth of conspiracy theories Under review. Preprint available at: [https://psyarxiv.com/3gc6k/](https://psyarxiv.com/3gc6k/). Under review.
 
 <b>Béna, J.</b>, Carreras, O., & Terrier, P. (preprint). On Believing Conspiracy Theories We Remember: Analyses of Two Large-Scale Surveys of Conspiracism in the French General Public. Under review. Preprint available at: [https://doi.org/10.31234/osf.io/tf76n](https://doi.org/10.31234/osf.io/tf76n). Under review.
 
