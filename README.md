@@ -78,6 +78,8 @@ Université de Toulouse, France
 
 # Articles
 
+Corneille, O., & Béna, J. Instruction-based replication studies raise challenging questions for psychological science. _Accepted at Collabra: Psychology._ \ Preprint available at: [https://www.researchgate.net/publication/370184223_Instruction-based_Replication_Studies_Raise_Challenging_Questions_for_Psychological_Science](https://www.researchgate.net/publication/370184223_Instruction-based_Replication_Studies_Raise_Challenging_Questions_for_Psychological_Science)
+
 Stahl, C., Aust, F., <b>Béna, J.</b>, Mierop, A., & Corneille, O. (in press). A conditional judgment procedure for probing evaluative conditioning effects in the absence of feelings of remembering. _Behavior Research Methods._ [https://doi.org/10.3758/s13428-023-02081-w](https://doi.org/10.3758/s13428-023-02081-w) \ Preprint available at: [https://psyarxiv.com/rtqnx/](https://psyarxiv.com/rtqnx/)
 
 <b>Béna, J.</b>, Rihet, M., Carreras, O., & Terrier, P. (2023). Repetition could increase the perceived truth of conspiracy theories. _Psychonomic Bulletin & Review._ [https://doi.org/10.3758/s13423-023-02276-4](https://doi.org/10.3758/s13423-023-02276-4) \ Preprint available at: [https://psyarxiv.com/3gc6k/](https://psyarxiv.com/3gc6k/)
