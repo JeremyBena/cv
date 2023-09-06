@@ -2,17 +2,17 @@
 
 # Jérémy Béna
 
-_Post-doctoral researcher, UCLouvain, Louvain-la-Neuve Belgium_<br>
+_Associate professor (maître de conférences), Aix-Marseille Université, Laboratoire de Psychologie Cognitive (LPC, CNRS, UMR 7290), France_<br>
 
-Mainly interested in memory, beliefs, evaluations, and in how memory shapes evaluations and beliefs.<br>
+Mainly interested in memory, beliefs, evaluations, and how memory shapes evaluations and beliefs.<br>
 
-<a href="mailto:jeremy.bena@uclouvain.be" target="_blank">e-mail</a> | <a href="https://orcid.org/0000-0001-9216-1677" target="_blank">ORCID</a> | <a href="https://www.researchgate.net/profile/Jeremy-Bena" target="_blank">ResearchGate</a> | <a href="https://twitter.com/JerBena" target="_blank">Twitter</a>
+<a href="mailto:jeremy.bena@univ-amu.fr" target="_blank">e-mail</a> | <a href="https://orcid.org/0000-0001-9216-1677" target="_blank">ORCID</a> | <a href="https://www.researchgate.net/profile/Jeremy-Bena" target="_blank">ResearchGate</a> | <a href="https://twitter.com/JerBena" target="_blank">Twitter</a>
 
-# Post-doctoral positions
+# Past post-doctoral positions
 
-## Current post-doctoral position
+## March 2022 - August 2023
 
-Post-doctoral fellowship funded by the Fonds Special de Recherche (FSR, UCLouvain, Belgium - March 2022 - April 2024).
+Post-doctoral fellowship funded by the Fonds Special de Recherche (FSR, UCLouvain, Belgium).
 
 Project entitled: _"Investigating 'reversed' truth effects."_
 
@@ -28,7 +28,7 @@ The Internet facilitates access to veridical but also to false and misleading in
 The truth effect makes it possible that false information becomes subjectively more true simply by being shared and repeatedly encountered. In contrast to this well-established study of the truth effect, this project aims to further our understanding of when repeated exposure may actually denote falsehood and of what happens when falsehood judgments are substituted for truth judgments. 
 </div><br><br>
 
-## Past post-doctoral position
+## March 2021 - March 2022
 
 Post-doctoral researcher at UCLouvain, Belgium (2021-2022).<br>
 Supervisor: Prof. Olivier Corneille
