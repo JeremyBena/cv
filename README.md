@@ -80,7 +80,7 @@ Université de Toulouse, France
 
 <b>Béna, J.</b>, Rouard, M., & Corneille, O. (in press). You won't believe it! Truth judgments for clickbait headlines benefit (but less so) from prior exposure. _Applied Cognitive Psychology._
 
-Corneille, O., & Béna, J. (2023). Instruction-based replication studies raise challenging questions for psychological science. _Collabra: Psychology, 9_(1), 82234. [https://doi.org/10.1525/collabra.82234](https://doi.org/10.1525/collabra.82234)
+Corneille, O., & <b>Béna, J.</b> (2023). Instruction-based replication studies raise challenging questions for psychological science. _Collabra: Psychology, 9_(1), 82234. [https://doi.org/10.1525/collabra.82234](https://doi.org/10.1525/collabra.82234)
 
 Stahl, C., Aust, F., <b>Béna, J.</b>, Mierop, A., & Corneille, O. (in press). A conditional judgment procedure for probing evaluative conditioning effects in the absence of feelings of remembering. _Behavior Research Methods._ [https://doi.org/10.3758/s13428-023-02081-w](https://doi.org/10.3758/s13428-023-02081-w) \ Preprint available at: [https://psyarxiv.com/rtqnx/](https://psyarxiv.com/rtqnx/)
 
