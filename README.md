@@ -78,7 +78,9 @@ Université de Toulouse, France
 
 # Articles
 
-<b>Béna, J.</b>, Rouard, M., & Corneille, O. (in press). You won't believe it! Truth judgments for clickbait headlines benefit (but less so) from prior exposure. _Applied Cognitive Psychology._
+Mattavelli, S., Béna, J., Unkelbach, C., & Corneille, O. (accepted). People underestimate the influence of repetition on truth judgments (and more so for themselves than for others). _Cognition._ \ Preprint available at: [https://doi.org/10.31234/osf.io/5mwpz](https://doi.org/10.31234/osf.io/5mwpz) 
+
+<b>Béna, J.</b>, Rouard, M., & Corneille, O. (2023). You won't believe it! Truth judgments for clickbait headlines benefit (but less so) from prior exposure. _Applied Cognitive Psychology._ [https://doi.org/10.1002/acp.4134](https://doi.org/10.1002/acp.4134)
 
 Corneille, O., & <b>Béna, J.</b> (2023). Instruction-based replication studies raise challenging questions for psychological science. _Collabra: Psychology, 9_(1), 82234. [https://doi.org/10.1525/collabra.82234](https://doi.org/10.1525/collabra.82234)
 
