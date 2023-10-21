@@ -78,7 +78,7 @@ Université de Toulouse, France
 
 # Articles
 
-Mattavelli, S., Béna, J., Unkelbach, C., & Corneille, O. (accepted). People underestimate the influence of repetition on truth judgments (and more so for themselves than for others). _Cognition._ \ Preprint available at: [https://doi.org/10.31234/osf.io/5mwpz](https://doi.org/10.31234/osf.io/5mwpz) 
+Mattavelli, S., <b>Béna, J.</b>, Unkelbach, C., & Corneille, O. (2023). People underestimate the influence of repetition on truth judgments (and more so for themselves than for others). _Cognition._ [https://doi.org/10.1016/j.cognition.2023.105651](https://doi.org/10.1016/j.cognition.2023.105651) \ Preprint available at: [https://doi.org/10.31234/osf.io/5mwpz](https://doi.org/10.31234/osf.io/5mwpz) 
 
 <b>Béna, J.</b>, Rouard, M., & Corneille, O. (2023). You won't believe it! Truth judgments for clickbait headlines benefit (but less so) from prior exposure. _Applied Cognitive Psychology._ [https://doi.org/10.1002/acp.4134](https://doi.org/10.1002/acp.4134)
 
