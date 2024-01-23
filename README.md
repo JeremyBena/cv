@@ -2,7 +2,7 @@
 
 # Jérémy Béna
 
-_Associate professor (maître de conférences), Aix-Marseille Université, Laboratoire de Psychologie Cognitive (LPC, CNRS, UMR 7290), France_<br>
+_Associate professor (maître de conférences), Aix-Marseille Université, Centre de Recherche en Psychologie et Neurosciences (CRPN, CNRS, UMR 7077), France_<br>
 
 Mainly interested in memory, beliefs, evaluations, and how memory shapes evaluations and beliefs.<br>
 
@@ -63,7 +63,7 @@ As an aside, I also work on the truth effect (repetition increases statements' p
 
 2020, December: **PhD in Psychology**<br>
 **Title:** The truth effect: Misattribution of familiarity to truth, or correspondence with contents retrieved from memory? Study of moderating effects of attention division and time interval, and generalization of the truth effect to conspiracism.<br>
-Université de Toulouse, Laboratoire CLLE, France<br><br>
+Université de Toulouse, Laboratoire CLLE (CNRS, UMR 5263), France<br><br>
 **Supervisors:** Prof. Patrice Terrier & Dr. Ophélie Carreras<br>
 **Funded by** the French ministry of higher education and scientific research.<br><br>
 PhD thesis available at (in French): [https://tel.archives-ouvertes.fr/tel-03560773/](https://tel.archives-ouvertes.fr/tel-03560773/)
@@ -76,23 +76,23 @@ Université de Toulouse, France
 
 <br><br>
 
-# Articles
+# Articles and working manuscripts
 
-Mattavelli, S., <b>Béna, J.</b>, Unkelbach, C., & Corneille, O. (2023). People underestimate the influence of repetition on truth judgments (and more so for themselves than for others). _Cognition._ [https://doi.org/10.1016/j.cognition.2023.105651](https://doi.org/10.1016/j.cognition.2023.105651) \ Preprint available at: [https://doi.org/10.31234/osf.io/5mwpz](https://doi.org/10.31234/osf.io/5mwpz) 
+Mattavelli, S., <b>Béna, J.</b>, Unkelbach, C., & Corneille, O. (2024). People underestimate the influence of repetition on truth judgments (and more so for themselves than for others). _Cognition_, 105651. [https://doi.org/10.1016/j.cognition.2023.105651](https://doi.org/10.1016/j.cognition.2023.105651) \ Preprint available at: [https://doi.org/10.31234/osf.io/5mwpz](https://doi.org/10.31234/osf.io/5mwpz) 
 
 <b>Béna, J.</b>, Rouard, M., & Corneille, O. (2023). You won't believe it! Truth judgments for clickbait headlines benefit (but less so) from prior exposure. _Applied Cognitive Psychology._ [https://doi.org/10.1002/acp.4134](https://doi.org/10.1002/acp.4134)
 
 Corneille, O., & <b>Béna, J.</b> (2023). Instruction-based replication studies raise challenging questions for psychological science. _Collabra: Psychology, 9_(1), 82234. [https://doi.org/10.1525/collabra.82234](https://doi.org/10.1525/collabra.82234)
 
-Stahl, C., Aust, F., <b>Béna, J.</b>, Mierop, A., & Corneille, O. (in press). A conditional judgment procedure for probing evaluative conditioning effects in the absence of feelings of remembering. _Behavior Research Methods._ [https://doi.org/10.3758/s13428-023-02081-w](https://doi.org/10.3758/s13428-023-02081-w) \ Preprint available at: [https://psyarxiv.com/rtqnx/](https://psyarxiv.com/rtqnx/)
+Stahl, C., <b>Béna, J.</b>, Aust, F., Mierop, A., & Corneille, O. (2023). A conditional judgment procedure for probing evaluative conditioning effects in the absence of feelings of remembering. _Behavior Research Methods._ [https://doi.org/10.3758/s13428-023-02081-w](https://doi.org/10.3758/s13428-023-02081-w) \ Preprint available at: [https://psyarxiv.com/rtqnx/](https://psyarxiv.com/rtqnx/)
 
-<b>Béna, J.</b>, Rihet, M., Carreras, O., & Terrier, P. (2023). Repetition could increase the perceived truth of conspiracy theories. _Psychonomic Bulletin & Review._ [https://doi.org/10.3758/s13423-023-02276-4](https://doi.org/10.3758/s13423-023-02276-4) \ Preprint available at: [https://psyarxiv.com/3gc6k/](https://psyarxiv.com/3gc6k/)
+<b>Béna, J.</b>, Rihet, M., Carreras, O., & Terrier, P. (2023). Repetition could increase the perceived truth of conspiracy theories. _Psychonomic Bulletin & Review, 30_, 2397--2406. [https://doi.org/10.3758/s13423-023-02276-4](https://doi.org/10.3758/s13423-023-02276-4) \ Preprint available at: [https://psyarxiv.com/3gc6k/](https://psyarxiv.com/3gc6k/)
 
 <b>Béna, J.</b>, Mierop, A., Bancu, D., Unkelbach, C., & Corneille, O. (2023). The role of valence matching in the truth-by-repetition effect. _Social Cognition, 41_(2), 91--105. [https://doi.org/10.1521/soco.2023.41.2.193](https://doi.org/10.1521/soco.2023.41.2.193) \ Available at: [https://www.researchgate.net/publication/369741504_The_Role_of_Valence_Matching_in_the_Truth-by-Repetition_Effect](https://www.researchgate.net/publication/369741504_The_Role_of_Valence_Matching_in_the_Truth-by-Repetition_Effect)
 
-<b>Béna, J.</b>, Mauclet, A., & Corneille, O. (2023) Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. _Journal of Experimental Psychology: General. 152_(4), 968–992 [https://doi.org/10.1037/xge0001308](https://doi.org/10.1037/xge0001308) \ Available at: [https://www.researchgate.net/publication/363660570_Does_Co-Occurrence_Information_Influence_Evaluations_Beyond_Relational_Meaning_An_Investigation_Using_Self-Reported_and_Mouse-Tracking_Measures_of_Attitudinal_Ambivalence](https://www.researchgate.net/publication/363660570_Does_Co-Occurrence_Information_Influence_Evaluations_Beyond_Relational_Meaning_An_Investigation_Using_Self-Reported_and_Mouse-Tracking_Measures_of_Attitudinal_Ambivalence)
+<b>Béna, J.</b>, Mauclet, A., & Corneille, O. (2023) Does mere co-occurrence influence evaluations independently of relational meaning? An investigation using subjective and objective ambivalence measures. _Journal of Experimental Psychology: General. 152_(4), 968–-992. [https://doi.org/10.1037/xge0001308](https://doi.org/10.1037/xge0001308) \ Available at: [https://www.researchgate.net/publication/363660570_Does_Co-Occurrence_Information_Influence_Evaluations_Beyond_Relational_Meaning_An_Investigation_Using_Self-Reported_and_Mouse-Tracking_Measures_of_Attitudinal_Ambivalence](https://www.researchgate.net/publication/363660570_Does_Co-Occurrence_Information_Influence_Evaluations_Beyond_Relational_Meaning_An_Investigation_Using_Self-Reported_and_Mouse-Tracking_Measures_of_Attitudinal_Ambivalence)
 
-<b>Béna, J.</b>, Corneille, O., Mierop, A., & Unkelbach, C. (2022). Robustness tests provide further support for an ecological account of the truth and fake news by repetition effects. Accepted at _International Review of Social Psychology, 35_(1), 19, 1–11. [https://doi.org/10.5334/irsp.683](https://doi.org/10.5334/irsp.683)
+<b>Béna, J.</b>, Corneille, O., Mierop, A., & Unkelbach, C. (2022). Robustness tests provide further support for an ecological account of the truth and fake news by repetition effects. Accepted at _International Review of Social Psychology, 35_(1), 19, 1--11. [https://doi.org/10.5334/irsp.683](https://doi.org/10.5334/irsp.683)
 
 <b>Béna, J.</b>, Melnikoff, D., Mierop, A., & Corneille, O. (2022). Revisiting dissociation hypotheses with a structural fit approach: The case of the prepared reflex framework. _Journal of Experimental Social Psychology, 100_, 104297. [https://doi.org/10.1016/j.jesp.2022.104297](https://doi.org/10.1016/j.jesp.2022.104297) \ Available at: [https://www.researchgate.net/publication/358142779_Revisiting_Dissociation_Hypotheses_with_a_Structural_fit_Approach_The_Case_of_the_Prepared_Reflex_Framework](https://www.researchgate.net/publication/358142779_Revisiting_Dissociation_Hypotheses_with_a_Structural_fit_Approach_The_Case_of_the_Prepared_Reflex_Framework)
 
@@ -103,5 +103,7 @@ Lacassagne, D., <b>Béna, J.</b>, & Corneille, O. (2022). Is Earth a Perfect Squ
 Mierop, A., Mikolajczak, M., Stahl, C., <b>Béna, J.</b>, Luminet, O., Lane, A., & Corneille, O. (2020). How Can Intranasal Oxytocin Research Be Trusted? A Systematic Review of the Interactive Effects of Intranasal Oxytocin on Psychosocial Outcomes. _Perspectives on Psychological Science, 15(5)_, 1228–1242. [https://doi.org/10.1177/1745691620921525](https://doi.org/10.1177/1745691620921525) \ Available at: [https://www.researchgate.net/publication/339566469_How_Can_Intranasal_Oxytocin_Research_Be_Trusted_A_Systematic_Review_of_the_Interactive_Effects_of_Intranasal_Oxytocin_on_Psychosocial_Outcomes](https://www.researchgate.net/publication/339566469_How_Can_Intranasal_Oxytocin_Research_Be_Trusted_A_Systematic_Review_of_the_Interactive_Effects_of_Intranasal_Oxytocin_on_Psychosocial_Outcomes)
 
 <b>Béna, J.</b>, Carreras, O., & Terrier, P. (2019). L’effet de vérité induit par la répétition: Revue critique de l’hypothèse de familiarité [The repetition-induced truth effect: A critical note on the familiarity hypothesis]. _L'Année Psychologique, 119(3)_, 397–424. [https://doi.org/10.3917/anpsy1.193.0397](https://doi.org/10.3917/anpsy1.193.0397)
+
+<b>Béna, J.</b>, Lacassagne, D., & Corneille, O. (preprint). Do Uncontrolled Processes Contribute to Evaluative Learning? Insights From a New Two-US Process Dissociation Procedure and Ambivalence Measures. Preprint available at: [https://osf.io/preprints/psyarxiv/g274k](https://osf.io/preprints/psyarxiv/g274k).
 
 <b>Béna, J.</b>, Carreras, O., & Terrier, P. (preprint). On Believing Conspiracy Theories We Remember: Analyses of Two Large-Scale Surveys of Conspiracism in the French General Public. Under review. Preprint available at: [https://doi.org/10.31234/osf.io/tf76n](https://doi.org/10.31234/osf.io/tf76n). Under review.
